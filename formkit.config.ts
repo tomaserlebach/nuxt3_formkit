@@ -7,4 +7,4 @@ const config: DefaultConfigOptions = {
   },
 };
 
-export default { config };
+export default config;
